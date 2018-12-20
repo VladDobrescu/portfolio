@@ -6,7 +6,7 @@ body {
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
     font-size: 14px;
-    color: #6f6f6f;
+    color: #939393;
     font-weight: 400;
     line-height: 24px;
 }
@@ -160,7 +160,7 @@ ul, ol, dl {
     Typography
 ====================================== */
 /* font family */
-.alt-font {
+.other-font {
     font-family: 'Montserrat', sans-serif;
     font-weight: 500
 }
@@ -168,7 +168,12 @@ ul, ol, dl {
 .main-font {
     font-family: 'Roboto', sans-serif;
 }
-
+.font-300{
+	font-weight: 300;
+}
+.font-600{
+	font-weight: 600;
+}
 /* heading */
 h1, h2, h3, h4, h5, h6 {
     margin: 0 0 25px;
@@ -237,6 +242,10 @@ h6 {
     font-size: 100px;
     line-height: 95px
 }
+.title-small {
+    font-size: 80px;
+    line-height: 95px
+}
 
 .title-extra-large {
     font-size: 130px;
@@ -252,7 +261,7 @@ h6 {
     color: #000
 }
 
-.text-extra-dark-gray {
+.text-dark {
     color: #232323
 }
 
@@ -283,6 +292,11 @@ h6 {
 .text-deep-pink {
     color: #ff214f
 }
+.text-bold-underline {
+	border-bottom: 3px solid #ff214f;
+ 
+}
+
 /* ****** burger menu ********* */
 .btn {
 	display: inline-block;
@@ -301,9 +315,31 @@ h6 {
 *******************  HELPERS - PADDING - MARGINS ***************
 ****************************************************************
 */
+.mb-0{
+	margin-bottom: 0em;
+}
+.mb-3{
+	margin-bottom: 3em;
+}
+.mt-4{
+	margin-top: 4em;
+}
+.inline{
+	display: inline-block;
+}
+.block{
+	display: block;
+}
+img.inline{
+	vertical-align:middle;
+}
+.float-l{
+	float: left;
+}
 .container-fluid .row{
 	margin-top: 30px;
 }
+
 .social a img{
 	display: inline-block !important;
 	margin:0px 12px 0px 12px;
@@ -313,16 +349,38 @@ h6 {
 	margin:0px 12px 0px 12px;
 	max-width: 6vh;
 }
+.hero{
+	background-image: url('../img/header-img@2x.png');
+	background-size: contain; 
+	visibility: visible;
+	width: 100%;
+	height:600px;
+}
 .h100{
 	height: 100px;
+}
+.h80{
+	height: 80px;
+}
+.m-100{
+	margin: 100px 0px 100px 0px;
 }
 .padd-three-l-r{
 	padding-left: 3.5%;
     padding-right: 3.5%;
 }
+.padd-50-l-r{
+	padding-left: 50px;
+    padding-right: 50px;
+}
+.marg-three-l-r{
+	margin-left: 3.5%;
+    margin-right: 3.5%;
+}
 .width-full{
 	width: 100%;
 	width: 100vh;
+	
 }
 
 /* 

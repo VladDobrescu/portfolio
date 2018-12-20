@@ -1,7 +1,7 @@
 <template>
 	<header>
 		<nav>
-			<div class="container-fluid h100 menu-container padd-three-l-r">
+			<div class="container-fluid h80 menu-container padd-three-l-r">
 				<div class="row">
 					<div class="col-md-4 col-sm-4 col-xs-6 text-left">
 						<div class="social">
