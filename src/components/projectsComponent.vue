@@ -11,9 +11,9 @@
 			<div class="col-md-12">
 				<div class="card-columns">
 					<div class="card">
-						<img class="card-img-top" src="../assets/svg/projects/tv.jpg" alt="Card image cap">
+						<img class="card-img-top" src="../assets/svg/projects/tv_2.jpg" alt="Card image cap">
 						<div class="card-img-overlay text-center">
-							<div class="align-items-center">
+							<div class="align-middle">
 								<img class="icon" src="../assets/svg/plus.svg" alt="">
 								<span class="text-extra-large other-font text-dark block">Full Stack Implementation</span>
 								<p class="no-letter-spacing text-small no-margin-bottom text-medium-gray">Client and server</p>
@@ -21,7 +21,7 @@
 						</div>
 					</div>					
 					<div class="card">
-						<img class="card-img-top" src="../assets/svg/projects/shop.jpg" alt="Card image cap">
+						<img class="card-img-top" src="../assets/svg/projects/shop_2.jpg" alt="Card image cap">
 						<div class="card-img-overlay text-center">
 							<div class="align-items-center">
 								<img class="icon" src="../assets/svg/plus.svg" alt="">
@@ -31,7 +31,7 @@
 						</div>
 					</div>					
 					<div class="card">
-						<img class="card-img-top" src="../assets/svg/projects/law.jpg" alt="Card image cap">
+						<img class="card-img-top" src="../assets/svg/projects/law_2.jpg" alt="Card image cap">
 						<div class="card-img-overlay text-center">
 							<div class="align-items-center">
 								<img class="icon" src="../assets/svg/plus.svg" alt="">
@@ -41,7 +41,7 @@
 						</div>
 					</div>					
 					<div class="card">
-						<img class="card-img-top" src="../assets/svg/projects/strat.jpg" alt="Card image cap">
+						<img class="card-img-top" src="../assets/svg/projects/strat_2.jpg" alt="Card image cap">
 						<div class="card-img-overlay text-center">
 							<div class="align-items-center">
 								<img class="icon" src="../assets/svg/plus.svg" alt="">
@@ -51,7 +51,7 @@
 						</div>
 					</div>					
 					<div class="card">
-						<img class="card-img-top" src="../assets/svg/projects/adam.jpg" alt="Card image cap">
+						<img class="card-img-top" src="../assets/svg/projects/adam_2.jpg" alt="Card image cap">
 						<div class="card-img-overlay text-center">
 							<div class="align-items-center">
 								<img class="icon" src="../assets/svg/plus.svg" alt="">
@@ -61,7 +61,7 @@
 						</div>
 					</div>					
 					<div class="card">
-						<img class="card-img-top" src="../assets/svg/projects/tour.jpg" alt="Card image cap">
+						<img class="card-img-top" src="../assets/svg/projects/tour_2.jpg" alt="Card image cap">
 						<div class="card-img-overlay text-center">
 							<div class="align-items-center">
 								<img class="icon" src="../assets/svg/plus.svg" alt="">
