@@ -7,6 +7,9 @@ import Single from '@/pages/single'
 Vue.use(Router)
 
 export default new Router({
+	scrollBehavior(to, from, savedPosition) {		
+		return { x: 0, y: 0 }		
+	},
 	routes: [
 		{ path: '/', name: 'home', component: Home },
 		{ path: '/about', name: 'about', component: About },
