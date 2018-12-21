@@ -19,14 +19,16 @@
 				</div>				
 			</div>
 			<div class="porject col-md-4 col-xs-12 mtb-2">
+				<router-link to="/project">
 				<img class="card-img-top" src="http://placehold.it/900x900" alt="Card image cap">
+				</router-link>			
 				<div class="card-img-overlay text-center">
 					<div class="center">
 						<img class="icon" src="../assets/svg/plus.svg" alt="">
 						<span class="text-extra-large other-font text-dark block">Full Stack Implementation</span>
 						<p class="no-letter-spacing text-small no-margin-bottom text-medium-gray">Client and server</p>
 					</div>
-				</div>				
+				</div>	
 			</div>
 			<div class="porject col-md-4 col-xs-12 mtb-2">
 				<img class="card-img-top" src="http://placehold.it/900x900" alt="Card image cap">
