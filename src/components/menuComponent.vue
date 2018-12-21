@@ -37,7 +37,7 @@ export default {
 </script>
 <style>
 header{
-	z-index: 1;
+	z-index: 2;
 }
 </style>
 
