@@ -5,12 +5,12 @@
 			<nav>
 				<div class="container-fluid h100 menu-container padd-three-l-r">
 					<div class="row">						
-						<div class="col-md-6 col-sm-6 col-xs-6 text-left">
+						<div class="col text-left">
 							<div class="logo">
 								<a href="/"><img src="../assets/svg/logo.svg" alt="facebook"></a>						
 							</div>
 						</div>				
-						<div class="col-md-6 col-sm-6 col-xs-6  text-right">
+						<div class="col text-right">
 							<router-link to="/"><div class="btn menu-container">
 								<img id="close" src="../assets/svg/about/close.svg" alt="">								
 							</div></router-link>
@@ -19,11 +19,11 @@
 				</div>
 			</nav>
 		</header>
-		<div class="row">
-			<div class="col-md-6 text-right">
-				<img src="../assets/svg/about/me.svg" alt="Meee">
+		<div class="row call-card-content">
+			<div class="col-md-6 col-xs-6 text-right">
+				<img class="me" src="../assets/svg/about/me.svg" alt="Meee">
 			</div>
-			<div class="info col-md-6 text-left align-middle">
+			<div class="info col-md-6 col-xs-6 text-left align-middle">
 				<div class="call-card">
 					<h5 class="text-red">Vlad Dobrescu</h5>
 					<p>Bucharest - Romania</p>
@@ -53,6 +53,9 @@ hr{
 	max-width: 40%;
 	margin-left: 0;
 }
+.padd{
+	padding-top: 5em;
+}
 .social a img:first-child{
 	margin-left: 0;
 }
@@ -62,8 +65,8 @@ hr{
 	min-height: 100vh;
 }
 .call-card{
-	position: absolute;
-	bottom: 0;
+	padding-top: 14.5em;
+	padding-left: 4em;
 }
 .call-card p{
 	color: #949494;

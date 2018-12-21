@@ -326,6 +326,9 @@ h6 {
 .mt-4{
 	margin-top: 4em;
 }
+.mtb-2{
+	margin: 2em 0 2em 0;
+}
 .inline{
 	display: inline-block;
 }
@@ -598,22 +601,70 @@ img.inline{
 
 */
 
-@media (min-width: 576px) {
-
+@media (max-width: 813px){
+	.scale{
+		font-size: 3em;
+	}
 }
-
-
-@media (min-width: 768px) { 
-	
+@media (max-width: 715px){
+	.scale{
+		font-size: 2.5em;
+	}
 }
-
-
-@media (min-width: 992px) {
-
+@media (max-width: 767px){
+	.call-card{
+		padding-top: 3em !important;
+	}
+	.call-card-content > .text-right{
+		text-align: center !important;
+	}
+	.call-card-content > .text-left{
+		text-align: center !important;
+	}
+	hr{
+		display: none;
+	}
 }
-
-
-@media (min-width: 1200px) {
-
-
+@media(max-width: 560px){
+	img.me{
+		max-width: 40%;
+	}
+	.call-card{
+		padding-left: 0 !important;
+	}
+	.call-card h5{
+		font-size: 1.5em;
+		line-height: .2em;
+	}
+	.call-card p{
+		font-size: .8em;
+		line-height: .2em;
+	}
+	.call-card > .social a img{
+		max-width: 5%;
+	}
+}
+@media (max-width: 374px){
+	.scale{
+		font-size: 2em;
+	}
+}
+@media (max-width: 425px){
+	.social a img{
+		margin: 0px 5px 0px 5px
+	}
+	span#copy{
+		font-size: .5em;
+	}
+	.call-card h5{
+		font-size: 1.5em;
+		line-height: .2em;
+	}
+	.call-card p{
+		font-size: .8em;
+		line-height: .2em;
+	}
+	.call-card > .social a img{
+		max-width: 5%;
+	}
 }
