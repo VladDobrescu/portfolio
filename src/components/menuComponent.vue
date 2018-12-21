@@ -14,14 +14,14 @@
 						<div class="logo">
 							<a href="/"><img src="../assets/svg/logo.svg" alt="facebook"></a>						
 						</div>
-					</div>
+					</div>				
 					<div class="col-md-4 col-sm-4 col-xs-6 text-right">
-						<div class="btn menu-container" onclick="myFunction(this)">
+						<router-link to="/about"><div class="btn menu-container">
 							<div class="bar1"></div>
 							<div class="bar2"></div>
 							<div class="bar3"></div>
-						</div>
-					</div>
+						</div></router-link>
+					</div>					
 				</div>
 			</div>
 		</nav>
@@ -29,15 +29,15 @@
 </template>
 <script>
 export default {
-	name: 'menuComponent'
+	name: 'menuComponent',
+	methods: {
+
+	}
 }
 </script>
 <style>
-.red{
-	background:red;
-}
 header{
-	z-index: 2;
+	z-index: 1;
 }
 </style>
 

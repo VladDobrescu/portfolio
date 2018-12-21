@@ -110,6 +110,6 @@ export default {
 	opacity: 1;
 }
 .icon{
-	margin: 50px 0 50px 0;
+	margin: 20px 0 20px 0;
 }
 </style>
