@@ -39,6 +39,9 @@ export default {
 header{
 	z-index: 2;
 }
+.logo a img{
+	max-width: 3vh;
+}
 </style>
 
 

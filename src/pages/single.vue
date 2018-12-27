@@ -37,18 +37,21 @@
 				</div>
 			</div>
 		</section>
+		<PrevNext></PrevNext>
 		<Footer></Footer>
 	</div>
 </template>
 
 <script>
 import Menu from '@/components/menuComponent'
+import PrevNext from '@/components/prevNextComponent'
 import Footer from '@/components/footerComponent'
 export default {
 	name: 'SingleProj',
 	components: {
 		Menu,
-		Footer
+		Footer,
+		PrevNext
 	}
 }
 </script>
