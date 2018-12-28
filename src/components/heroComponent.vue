@@ -6,7 +6,7 @@
 					<div class="scale other-font inline mb-0 font-300 text-dark title-small">I'm
 						<span class="text-bold-underline font-600">vlad dobrescu</span>
 					</div>
-					<span class="other-font text-medium-gray text-medium block mt-4">FULLSTACK WEB DEVELOPER</span>
+					<span class="other-font text-medium-gray text-medium block mt-4 subtext">FULLSTACK WEB DEVELOPER</span>
 			</div>
 		</div>
 	</div>

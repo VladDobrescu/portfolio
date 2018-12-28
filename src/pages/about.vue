@@ -29,7 +29,7 @@
 					<p>Bucharest - Romania</p>
 					<p>Call: +40 721 153 905</p>
 					<p>Email: <span>vlad.s.dobrescu@gmail.com</span></p>
-					<hr>
+					<hr class="red">
 					<div class="social">
 						<a href="#"><img src="../assets/svg/about/fb.svg" alt="facebook"></a>
 						<a href="#"><img src="../assets/svg/about/tw.svg" alt="twitter"></a>

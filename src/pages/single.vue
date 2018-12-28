@@ -9,7 +9,7 @@
 			</div>
 			<div class="project-info-text">
 				<div class="row">
-					<div class="col-md-6 col-xs-12">
+					<div class="col-md-6 col-xs-12 paragraph">
 						<p class="text-dark">About my work on the project....Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages</p>
 					</div>
 					<div class="col-md-6 col-xs-12">
@@ -24,7 +24,7 @@
 				</div>
 			</div>
 		</div>
-		<section>
+		<section class="dark">
 			<div class="container-fluid">
 				<div class="row">
 					<div class="col-md-12 text-center">
@@ -32,7 +32,7 @@
 							<img class="layers" src="../assets/svg/single/layers_2.svg" alt="">
 							<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Repudiandae nesciunt dolorum eius, suscipit aperiam consectetur soluta alias quo quibusdam, saepe animi facere! Nesciunt dignissimos consequatur dicta quia ex aspernatur quasi.</p>
 						</div>
-						<img class="device" src="../assets/img/devices.png" alt="">
+						<img class="device" src="../assets/projects/jtv/jtv.png" alt="">
 					</div>
 				</div>
 			</div>
@@ -57,9 +57,12 @@ export default {
 </script>
 
 <style scoped>
-section{
+img.device{
+	width: 70% !important;
+}
+section.dark{
 	background: #242424;
-	height: 109vh;
+	/* height: 109vh; */
 	margin-top: 4em;
 	overflow: hidden;
 }
@@ -91,10 +94,12 @@ label{
 	min-width: 100%;
 }
 .project-info-title h4{
-	padding-top: 4em;
 	font-size: 40px;
 	line-height: 46px;
 	font-weight: 300;
+}
+.project-info-title{
+	padding: 5em 0 4em 0;
 }
 .project-info-text{
 	padding-top: 4em;

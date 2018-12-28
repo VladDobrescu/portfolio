@@ -89,8 +89,17 @@
 	</div>
 </template>
 <script>
+import db from '../assets/db.json'
 export default {
 	name: 'projectsComp',
+	mounted(){
+		this.populateProjects()
+	},
+	methods: {
+		populateProjects: ()=>{
+			console.log(db)
+		}
+	}
 }
 </script>
 

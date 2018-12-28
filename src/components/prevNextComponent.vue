@@ -1,7 +1,7 @@
 <template>
 	<div class="other-projects ontainer-fluid h80 menu-container padd-three-l-r">
 		<div class="row mt-100 mb-150">
-			<div class="col-md-6 col-xs-6 text-left">
+			<div class="col-md-6 prev-next col-xs-4 text-left">
 				<div class="prevoius middle">
 					<img src="../assets/svg/single/l_arrow.svg" alt="">
 					<div class="text">
@@ -10,7 +10,7 @@
 					</div>
 				</div>
 			</div>
-			<div class="col-md-6 col-xs-6 text-right">
+			<div class="col-md-6 prev-next col-xs-4 text-right">
 				<div class="next middle">
 					<div class="text">
 						<p>Next Project</p>
