@@ -33,7 +33,7 @@ a:focus, a:active, button:focus, button:active,.btn.active.focus, .btn.active:fo
 
 img {
     max-width: 100%;
-    max-width: 100vh;
+    /* max-width: 100vh; */
 	height: auto;
 }
 
@@ -613,8 +613,16 @@ img.inline{
 	.scale{
 		font-size: 2.5em;
 	}
+	.subtext{
+		font-size: .8em;
+	}
 }
 @media (max-width: 767px){
+	.prev-next {
+		-ms-flex: 0 0 50%;
+		flex: 0 0 50%;
+		max-width: 50%;
+	}
 	.call-card{
 		padding-top: 3em !important;
 	}
@@ -624,9 +632,26 @@ img.inline{
 	.call-card-content > .text-left{
 		text-align: center !important;
 	}
-	hr{
+	hr.red{
 		display: none;
 	}
+	.paragraph p{
+		padding-bottom: 2em;
+	}
+	.design-detail{
+		padding-top: 2em !important;
+		width: 50%;
+		margin: 0 auto;
+	}
+	.design-detail p{
+		font-size: 1em !important;
+	}
+	/* .design-detail img{
+		margin: 2em 0 !important;
+	} */
+	/* section.dark{
+		height: 139vh !important;
+	} */
 }
 @media(max-width: 560px){
 	img.me{
@@ -646,8 +671,23 @@ img.inline{
 	.call-card > .social a img{
 		max-width: 5%;
 	}
+	/* section.dark{
+		height: 145vh !important;
+	} */
+	.text p{
+		font-size: .7rem !important;
+	}
+	p.proj-name{
+		font-size: .9rem !important;
+	}
 }
 @media (max-width: 374px){
+	.text p{
+		font-size: .6rem !important;
+	}
+	p.proj-name{
+		font-size: .8rem !important;
+	}
 	.scale{
 		font-size: 2em;
 	}

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="210mm" height="297mm" version="1.1" viewBox="0 0 744.09448819 1052.3622047" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <linearGradient id="q" x1="643.59" x2="638.79" y1="376.52" y2="369.58" gradientTransform="matrix(.58 0 0 .58 587.56 104.76)" gradientUnits="userSpaceOnUse" xlink:href="#k"/>
+  <linearGradient id="k">
+   <stop stop-color="#b6b6b6" offset="0"/>
+   <stop stop-color="#5a5a5a" offset="1"/>
+  </linearGradient>
+  <radialGradient id="s" cx="641.03" cy="373.08" r="4.7364" gradientTransform="matrix(.58 0 0 .58 587.56 104.76)" gradientUnits="userSpaceOnUse" xlink:href="#l"/>
+  <linearGradient id="l">
+   <stop stop-color="#9bcafa" offset="0"/>
+   <stop stop-color="#4c6988" offset="1"/>
+  </linearGradient>
+  <linearGradient id="r" x1="641.09" x2="641.09" y1="366.11" y2="372.05" gradientTransform="matrix(.58 0 0 .58 298.46 541.5)" gradientUnits="userSpaceOnUse" xlink:href="#m"/>
+  <linearGradient id="m">
+   <stop stop-color="#fff" offset="0"/>
+   <stop stop-color="#fff" stop-opacity="0" offset="1"/>
+  </linearGradient>
+  <radialGradient id="t" cx="641.03" cy="373.08" r="4.7364" gradientTransform="matrix(.98841 0 0 .98841 378.4 -140.49)" gradientUnits="userSpaceOnUse" xlink:href="#l"/>
+  <linearGradient id="n" x1="643.59" x2="638.79" y1="376.52" y2="369.58" gradientTransform="matrix(.98841 0 0 .98841 378.4 -140.49)" gradientUnits="userSpaceOnUse" xlink:href="#k"/>
+  <linearGradient id="o" x1="641.09" x2="641.09" y1="366.11" y2="372.05" gradientTransform="matrix(.98841 0 0 .98841 128.69 335.08)" gradientUnits="userSpaceOnUse" xlink:href="#m"/>
+  <linearGradient id="p" x1="2112" x2="2433.6" y1="384.98" y2="874.3" gradientUnits="userSpaceOnUse">
+   <stop offset="0"/>
+   <stop stop-color="#656565" stop-opacity=".47059" offset=".52636"/>
+   <stop offset="1"/>
+  </linearGradient>
+ </defs>
+ <path d="m406.9 343.27h311.6c0.87746 0 1.5839 0.70641 1.5839 1.5839v415.44c0 0.87747-0.70641 1.5839-1.5839 1.5839h-311.6c-0.87746 0-1.5839-0.70641-1.5839-1.5839v-415.44c0-0.87746 0.70641-1.5839 1.5839-1.5839zm159.16-22.121a3.3579 3.3579 0 0 1 -3.3579 3.3579 3.3579 3.3579 0 0 1 -3.3579 -3.3579 3.3579 3.3579 0 0 1 3.3579 -3.3579 3.3579 3.3579 0 0 1 3.3579 3.3579zm-6.1675 460.86h5.6193c1.5566 0 2.8097 1.2531 2.8097 2.8097v5.4822c0 1.5566-1.2531 2.8097-2.8097 2.8097h-5.6193c-1.5566 0-2.8097-1.2531-2.8097-2.8097v-5.4822c0-1.5566 1.2531-2.8097 2.8097-2.8097zm17.056 5.5508a14.246 14.246 0 0 1 -14.246 14.246 14.246 14.246 0 0 1 -14.246 -14.246 14.246 14.246 0 0 1 14.246 -14.246 14.246 14.246 0 0 1 14.246 14.246zm-164.96-490.6h301.43c11.459 0 20.683 9.2248 20.683 20.683v472.42c0 11.459-9.2248 20.683-20.683 20.683h-301.43c-11.459 0-20.683-9.2248-20.683-20.683v-472.42c0-11.459 9.2248-20.683 20.683-20.683zm0.29156-3.4478h300.85c13.335 0 24.07 10.735 24.07 24.07v471.77c0 13.335-10.735 24.07-24.07 24.07h-300.85c-13.335 0-24.07-10.735-24.07-24.07v-471.77c0-13.335 10.735-24.07 24.07-24.07z" fill="none" stroke="#5a5a5a" stroke-width=".75"/>
+ <path d="m1204.9 307.65h261.33c11.023 0 19.896 8.8738 19.896 19.897v456.59c0 11.023-8.8738 19.897-19.896 19.897h-261.33c-11.023 0-19.896-8.8738-19.896-19.897v-456.59c0-11.023 8.8738-19.897 19.896-19.897zm135.74 21.236a5.0711 5.0711 0 0 1 -5.0711 5.0711 5.0711 5.0711 0 0 1 -5.0711 -5.0711 5.0711 5.0711 0 0 1 5.0711 -5.0711 5.0711 5.0711 0 0 1 5.0711 5.0711zm-135.81-24.928h261.48c12.911 0 23.305 10.394 23.305 23.305v456.76c0 12.911-10.394 23.305-23.305 23.305h-261.48c-12.911 0-23.305-10.394-23.305-23.305v-456.76c0-12.911 10.394-23.305 23.305-23.305zm7.9017 425.82h245.47m-243.78-368.98h242.3c0.821 0 1.4818 0.66084 1.4818 1.4817v388.64c0 0.82086-0.6608 1.4817-1.4818 1.4817h-242.3c-0.8209 0-1.4817-0.66084-1.4817-1.4817v-388.64c0-0.82086 0.6608-1.4817 1.4817-1.4817z" fill="none" stroke="#5a5a5a" stroke-width=".75"/>
+ <rect x="784.86" y="293.51" width="348.99" height="519.91" ry="24.07" fill="#cfcfcf" fill-rule="evenodd"/>
+ <rect x="787.96" y="296.96" width="342.8" height="513.79" ry="20.683" fill="#fff" fill-rule="evenodd"/>
+ <circle cx="959.36" cy="787.56" r="14.246" fill="#fff" fill-rule="evenodd" stroke="#cfcfcf" stroke-width=".5868"/>
+ <rect x="953.74" y="782.01" width="11.239" height="11.102" ry="2.8097" fill="none" stroke="#cfcfcf" stroke-width=".5868"/>
+ <rect x="801.97" y="343.27" width="314.77" height="418.61" ry="1.5839" fill="#323232" fill-rule="evenodd" stroke="#5a5a5a" stroke-width=".4401"/>
+ <path d="m963.13 321.15a3.7724 3.7724 0 0 1 -3.7724 3.7724 3.7724 3.7724 0 0 1 -3.7724 -3.7724 3.7724 3.7724 0 0 1 3.7724 -3.7724 3.7724 3.7724 0 0 1 3.7724 3.7724z" fill="url(#q)" fill-rule="evenodd"/>
+ <path d="m962.1 321.15a2.7471 2.7471 0 0 1 -2.747 2.7471 2.7471 2.7471 0 0 1 -2.7471 -2.7471 2.7471 2.7471 0 0 1 2.7471 -2.7471 2.7471 2.7471 0 0 1 2.747 2.7471z" fill="url(#s)" fill-rule="evenodd"/>
+ <ellipse transform="matrix(.86603 -.5 .5 .86603 0 0)" cx="670.25" cy="756.82" rx="2.1409" ry="1.5769" fill="url(#r)" fill-rule="evenodd" opacity=".678"/>
+ <g transform="matrix(.5868 0 0 .5868 345.2 187.2)" fill-rule="evenodd">
+  <rect x="2031.5" y="198.98" width="525.03" height="857.83" ry="39.715" fill="#7b7b7b"/>
+  <rect x="2037.4" y="205.27" width="513.17" height="845.9" ry="33.907" fill="url(#p)" stroke="#5a5a5a" stroke-width=".75"/>
+  <path d="m2084.7 924.64h418.32m-415.44-628.79h412.91c1.399 0 2.5252 1.1262 2.5252 2.525v662.31c0 1.3989-1.1262 2.525-2.5252 2.525h-412.91c-1.3989 0-2.5251-1.1262-2.5251-2.525v-662.31c0-1.3989 1.1262-2.525 2.5251-2.525z" fill="#2a2a2a" stroke="#5a5a5a" stroke-width=".75"/>
+  <g transform="matrix(1.5444 0 0 1.5444 731.04 -111.08)">
+   <path d="m1018.4 228.26a6.4287 6.4287 0 0 1 -6.4287 6.4288 6.4287 6.4287 0 0 1 -6.4288 -6.4288 6.4287 6.4287 0 0 1 6.4288 -6.4287 6.4287 6.4287 0 0 1 6.4287 6.4287z" fill="url(#n)"/>
+   <path d="m1016.7 228.26a4.6815 4.6815 0 0 1 -4.6814 4.6815 4.6815 4.6815 0 0 1 -4.6815 -4.6815 4.6815 4.6815 0 0 1 4.6815 -4.6815 4.6815 4.6815 0 0 1 4.6814 4.6815z" fill="url(#t)"/>
+   <ellipse transform="matrix(.86603 -.5 .5 .86603 0 0)" cx="762.29" cy="702.01" rx="3.6484" ry="2.6872" fill="url(#o)" opacity=".678"/>
+  </g>
+ </g>
+</svg>
